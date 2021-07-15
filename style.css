@@ -138,6 +138,15 @@ header img {
   top: 15px;
 }
 
+.circles{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 25px;
+  top: 15px;
+  border-radius:100%;
+}
+
 .fade {
   /* Fade animation on page load */
   animation: fade 500ms ease-in;
@@ -500,6 +509,8 @@ input,
     margin: initial;
   }
 }
+
+
 
 .alert{
   text-align: center;
