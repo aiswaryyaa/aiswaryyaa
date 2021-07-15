@@ -437,6 +437,14 @@ input,
     top: 18px;
   }
 
+  .circles{
+    width: 20px;
+    height: 20px;
+    top: 18px;
+  }
+  
+
+
   .icons {
     display: flex;
     flex-wrap: wrap;
@@ -493,6 +501,10 @@ input,
   }
 
   .circle {
+    display: none;
+  }
+
+  .circles {
     display: none;
   }
 
