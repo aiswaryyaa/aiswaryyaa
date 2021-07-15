@@ -501,6 +501,21 @@ input,
   }
 }
 
+.alert{
+  text-align: center;
+  padding:10px;
+  background: linear-gradient(#a7acd9,#9e8fb2
+  );  
+  color:#fff;
+  margin-bottom:10px;
+  border-radius:5%;
+  display:none;
+}
+
+.bor{
+  border-radius:3%;
+}
+
 @media (min-width: 700px) {
   h2::before {
     font-size: 3rem;
@@ -508,6 +523,3 @@ input,
 }
 
 
-.bor{
-  border-radius:3%;
-}
