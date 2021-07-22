@@ -1,7 +1,11 @@
 <h1 align='center'>
   Hi there 👋  I'm   <a href="https://aiswaryyaa.github.io/aiswaryyaa/" target="_blank">
-  Aiswarya Pradeep</a> 👨‍💻
+  Aiswarya Pradeep</a>, a passionate self-taught IndianDev👨‍💻
 </h1>
+
+
+- 🌱 I’m currently learning Springboot 
+- 💬 Ask me about anything [here](https://aiswaryyaa.github.io/aiswaryyaa/)
 
 
 <p align='center'>
@@ -18,5 +22,13 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
+  <a href="#"><img src="https://media.giphy.com/media/xlVvWxyeUJsDcHPMsO/giphy.gif" width="241"></a>
 </p>
+
+<p align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiswaryyaa&layout=compact&theme=material-palenight" />
+</a>
+</p>
+
+
