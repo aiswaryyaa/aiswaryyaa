@@ -4,7 +4,7 @@
 </h1>
 
 
-- 🌱 I’m currently learning Springboot 
+- 🌱 I’m currently learning Java and React 
 - 💬 Ask me about anything [here](https://aiswaryyaa.github.io/aiswaryyaa/)
 
 
