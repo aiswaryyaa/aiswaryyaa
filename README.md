@@ -1,6 +1,6 @@
 <h1 align='center'>
   Hi there 👋  I'm   <a href="https://aiswaryyaa.github.io/aiswaryyaa/" target="_blank">
-  Aiswarya Pradeep</a>, a passionate self-taught IndianDev👨‍💻
+  Aiswarya Pradeep</a>, a passionate self-taught Developer👨‍💻
 </h1>
 
 
